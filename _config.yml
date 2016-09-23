@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Avalon Now
 tagline:          'Volunteers for a Better Community'
 description:      'Avalon Now is a group that aims to bring together the talents, resources, and skills of people in the community in order to increase their collective power and work for positive change.'
-url:              http://pagewaiter.github.io/avalonnon
-baseurl:          http://pagewaiter.github.io/avalonnon
+url:              https://pagewaiter.github.io/avalonnon
+baseurl:          https://pagewaiter.github.io/avalonnon/
 
 author:
   name:           'Jason Mosley'

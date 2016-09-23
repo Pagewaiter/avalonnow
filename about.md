@@ -1,30 +1,32 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+**Avalon Now** is a group that aims to bring together the talents, resources, and skills of people in the community in order to increase their collective power and work for positive change.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Our goals include:
 
-There are currently two themes built on Poole:
+Organizing community events that highlight the people, businesses, and amenities.
+Reporting code violations to the Avalon Borough Council and the Avalon Borough Police Department.
+Spreading the word about what Avalon has to offer to attract businesses and families to the Borough of Avalon.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+If you are a resident of Avalon Borough and have questions or concerns that you would like to present to the Borough Council, please attend a Council meeting (third Tuesday of every month at 7:00pm). If you are unable to attend to voice your concerns, contact Avalon Now and the group will bring your concerns to the council.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+_Please join us for an Avalon Now meeting, held the last Wednesdays of every month at 7:00pm, located at Avalon Borough Building, 640 California Ave._
 
-## Setup
+### About Avalon
 
-Some fun facts about the setup of this project include:
+[Avalon Borough](http://www.boroughofavalon.org/): A family community with easily accessible city amenities.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Avalon Borough is a community 6 miles northwest of the city of Pittsburgh and home to over 5,200 residents.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+**Avalon Amenities:**
 
-Thanks for reading!
+- Avalon Park and Swimming Pool
+- Avalon Public Library
+- Access for public transportation
+- Minutes away from McKnight Road, Ross Park Mall
+- Close proximity to the City of Pittsburgh
+- For more information and maps of the Borough, please visit the Avalon Borough Building, 640 California Ave.
